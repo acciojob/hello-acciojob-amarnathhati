@@ -6,7 +6,7 @@ main.accio#job {
   background-color: black;
 }
 .main .hello-accio {
-  color: white;
-  margin-left: 32px;
+  color: rgb(255, 255, 255);
+  margin-left: px;
   padding: 10px;
 }
